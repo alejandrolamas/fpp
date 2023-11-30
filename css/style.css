@@ -1,0 +1,11 @@
+.fpp-progress-bar {
+    width: 100%;
+    background-color: #ddd;
+    height: 20px;
+    margin-bottom: 20px;
+}
+
+.fpp-progress {
+    height: 100%;
+    background-color: #4caf50;
+}
